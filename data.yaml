@@ -1,0 +1,17 @@
+path: C:/AI/components_data_uncropped
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names:
+  0: capacitor
+  1: resistor
+  2: ic
+  3: connector
+  4: transistor
+  5: diode
+  6: led
+  7: switch
+  8: pins
+  9: inductor
