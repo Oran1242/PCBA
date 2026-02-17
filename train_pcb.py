@@ -9,4 +9,3 @@ model.train(
     batch=8
 )
 
-#moth like pond
